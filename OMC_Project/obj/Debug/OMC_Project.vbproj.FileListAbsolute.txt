@@ -1,0 +1,36 @@
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\bin\Debug\OMC_Project.exe.config
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\bin\Debug\OMC_Project.exe
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\bin\Debug\OMC_Project.pdb
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\bin\Debug\OMC_Project.xml
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.vbproj.AssemblyReference.cache
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.Resources.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.vbproj.GenerateResource.cache
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.vbproj.CoreCompileInputs.cache
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.exe
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.xml
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.pdb
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.frmLogin.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.frmSignUp.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.frmSeller.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.frmMain.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\Visual Programming\Code\OMC_Project\OMC_Project\obj\Debug\OMC_Project.frmTest.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\bin\Debug\OMC_Project.exe.config
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\bin\Debug\OMC_Project.exe
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\bin\Debug\OMC_Project.pdb
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\bin\Debug\OMC_Project.xml
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.vbproj.AssemblyReference.cache
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.frmLogin.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.frmMain.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.frmSeller.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.frmSignUp.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.frmTest.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.Resources.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.vbproj.GenerateResource.cache
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.vbproj.CoreCompileInputs.cache
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.exe
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.xml
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.pdb
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.LoginForm1.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.SplashScreen1.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.AboutBox1.resources
+C:\Users\xinghao2003\source\repos\OMC-Project\OMC_Project\obj\Debug\OMC_Project.Dialog1.resources

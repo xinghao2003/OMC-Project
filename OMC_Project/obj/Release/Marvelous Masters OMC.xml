@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Marvelous Masters OMC
+</name>
+</assembly>
+<members>
+<member name="T:OMC_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OMC_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OMC_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.inventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.issueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.orderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.usersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.salesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.inventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.issueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.orderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.usersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.salesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.inventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.issueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.orderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.usersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSet.salesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.inventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.issueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.orderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.usersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.salesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OMC_Project.database_omcDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OMC_Project.database_omcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OMC_Project.database_omcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.UpdateAll(OMC_Project.database_omcDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OMC_Project.database_omcDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

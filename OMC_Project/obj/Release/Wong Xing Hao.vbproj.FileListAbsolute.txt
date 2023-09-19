@@ -1,0 +1,23 @@
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\bin\Release\database_omc.mdb
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\Wong Xing Hao.vbproj.AssemblyReference.cache
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmInventory.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmLogin.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmMain.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmPayment.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmSeller.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmSignUp.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmUser.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.Resources.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.ssGIF.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\Wong Xing Hao.vbproj.GenerateResource.cache
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\Wong Xing Hao.vbproj.CoreCompileInputs.cache
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\bin\Release\Marvelous Masters OMC.exe.config
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\bin\Release\Marvelous Masters OMC.exe
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\bin\Release\Marvelous Masters OMC.pdb
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\bin\Release\Marvelous Masters OMC.xml
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmAbout.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmAccDetail.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\OMC_Project.frmShoppingCart.resources
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\Marvelous Masters OMC.exe
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\Marvelous Masters OMC.xml
+C:\Users\xinghao2003\OneDrive - Universiti Teknologi PETRONAS\Sem 2 - Trimester 3\OMC_Project\Application Code\Wong Xing Hao\OMC_Project\obj\Release\Marvelous Masters OMC.pdb
